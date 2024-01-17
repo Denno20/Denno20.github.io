@@ -18,7 +18,7 @@ Oh dear. Have users seriously forgotten that when they created an account, they 
 
 At least, to **some capacity**.
 
-Facebook states in its privacy [policy](https://facebook/privacy/policy) that it collects information based on your activity, stating that "the information that we collect and process about you depends on how you use our products". According to the updated data policy effective since the 27th of December, Meta will collect the following information:
+Facebook states in its privacy [policy](https://facebook.com/privacy/policy) that it collects information based on your activity, stating that "the information that we collect and process about you depends on how you use our products". According to the updated data policy effective since the 27th of December, Meta will collect the following information:
 -   The information that you give us when you sign up for our Products and create a profile, such as your email address or phone number.
 -   What you do on our Products. This includes what you click on or like, your posts and photos and messages that you send. If you use end-to-end encrypted messaging, we can't read those messages unless users report them to us for review.
 -   Who your friends or followers are, and what they do on our Products.
