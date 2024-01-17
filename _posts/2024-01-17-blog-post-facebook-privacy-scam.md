@@ -25,7 +25,7 @@ Facebook states in its privacy [policy](https://facebook.com/privacy/policy) tha
 -   Information from the phone, computer or tablet that you use our Products on, like what kind it is and what version of our app you're using.
 -   Information from [partners[3]](https://mbasic.facebook.com/privacy/policy/printable/#annotation-3) about things you do both on and off our Products. This could include other websites you visit, apps you use or online games you play.
 
-The hoax post a waste of everyone's time. Sharing it will not only make you look like a fool, it also won't make the slightest difference to your privacy settings, or the way Meta uses your data.
+The hoax is a waste of everyone's time. Sharing it will not only make you look like a fool, it also won't make the slightest difference to your privacy settings, or the way Meta uses your data.
 
 However, given the inducing fear of the language used, it's no wonder that this hoax is spreading faster than I can scroll on my news feed. 
 
