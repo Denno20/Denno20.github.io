@@ -3,6 +3,9 @@
 **A somewhat recycled Facebook hoax has been making the rounds recently, and a surprising number of the general public are still falling for it (at least, on my feed that's happening).** 
 
 ![File: Michael Dwyer/AP Photo](https://www.aljazeera.com/wp-content/uploads/2023/05/AP23125612143789-1683621235.jpg?resize=1800,1800)
+File: Michael Dwyer/AP Photo
+
+
 The hoax post makes the claim that Facebook is about to expose your past and future photos, information, posts or even messages. While the language of the hoax has slightly varied, it looks similar to this:
 
 > "I do not give Facebook or any company affiliated with Facebook permission to use my past and future photos, information, messages or posts. With this statement, I inform Facebook that it is strictly forbidden to publish, copy, distribute or take any other action against me based on this profile and/or its contents. The violation of privacy can be punished by law.
