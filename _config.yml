@@ -18,7 +18,8 @@ linkedin_username: "www.linkedin.com/in/ethan-dennison-531158205"
 #########################################################################################
 theme: "minima"
 
-# rss: rss
+rss:
+  disable: true
 
 kramdown:
   syntax_highlighter_opts:
