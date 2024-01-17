@@ -1,4 +1,4 @@
-title: "Welcome"
+title: "Ethan's Blog"
 author: "Ethan Dennison"
 description: "Welcome to my blog. Using this as my portfolio to showcase my projects and ideas." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
@@ -18,7 +18,7 @@ linkedin_username: "www.linkedin.com/in/ethan-dennison-531158205"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+# rss: rss
 
 kramdown:
   syntax_highlighter_opts:
